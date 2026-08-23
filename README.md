@@ -9,4 +9,4 @@ This repository hosts public legal documents for DealShield.
 
 ## Contact
 
-- `jleonandersonjr@gmail.com`
+- `jeromegatron.labs@gmail.com`
