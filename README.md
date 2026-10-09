@@ -1,12 +1,7 @@
-# DealShield Legal
+# Sign Check
 
-This repository hosts public legal documents for DealShield.
-
-## Files
-
-- `index.html` — landing page
-- `privacy-policy.html` — public privacy policy page
+Public site and legal pages for Sign Check.
 
 ## Contact
 
-- `jeromegatron.labs@gmail.com`
+- jeromegatron.labs@gmail.com
